@@ -1,0 +1,32 @@
+{
+  "name": "mojang-minecraft-server-admin",
+  "version": "1.0.0",
+  "description": "Minecraft server admin Module for Minecraft Bedrock Edition",
+  "main": "dist/index.d.ts",
+  "homepage": "https://github.com/wuw6248/mojang-minecraft-server-admin",
+  "author": "@wuw6248 (https://github.com/wuw6248)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wuw6248/mojang-minecraft-server-admin.git"
+  },
+  "contributors": [
+    {
+      "name": "wuw6248",
+      "url": "https://github.com/wuw6248",
+      "githubUsername": "wuw6248"
+    }
+  ],
+  "dependencies": { },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "mojang-minecraft-server-admin",
+    "minecraftserveradmin",
+    "minecraft",
+    "gametest",
+    "bedrock",
+    "mcbe",
+    "mcpe"
+  ]
+}
